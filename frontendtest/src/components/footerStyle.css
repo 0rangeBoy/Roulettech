@@ -1,0 +1,15 @@
+body {
+    background-color: #1d5cf0;
+    position: sticky;
+    height: 200px;
+}
+h2 {
+    color: white;
+}
+#footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
